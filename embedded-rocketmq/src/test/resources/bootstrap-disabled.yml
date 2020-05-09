@@ -1,0 +1,3 @@
+embedded:
+  rocketmq:
+    enabled: false

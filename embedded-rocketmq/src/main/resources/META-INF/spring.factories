@@ -1,0 +1,4 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+com.playtika.test.rocketmq.configuration.EmbeddedRocketMQBootstrapConfiguration
+
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
